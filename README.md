@@ -7,3 +7,9 @@ Screenshots:
 ----------------------
 
 <img src="https://cloud.githubusercontent.com/assets/15187270/19419162/78dfb842-9386-11e6-8112-c18d9da8665f.png" />
+<img src="https://cloud.githubusercontent.com/assets/15187270/19419180/efddbe8a-9386-11e6-81ba-7fdefa67c5f5.png" />
+<img src="https://cloud.githubusercontent.com/assets/15187270/19419182/fb1b97b8-9386-11e6-93f1-bfd40c0a3ced.png" />
+<img src="https://cloud.githubusercontent.com/assets/15187270/19419187/0328e73a-9387-11e6-9f01-79fa6e95e895.png" />
+
+
+
